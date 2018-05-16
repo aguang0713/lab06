@@ -2,7 +2,7 @@
 LiquidCrystal lcd(12, 11, 5, 4, 3, 2); // initialize interface pins
 void setup() {
 lcd.begin(16, 2); // set up the LCD's number of columns and rows:
-lcd.print("05050084 Allen"); // Print a message to the LCD.
+lcd.print("05050404 A"); // Print a message to the LCD.
 }
 void loop()
 {
